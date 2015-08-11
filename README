@@ -1,3 +1,12 @@
+From oppia directory:
+
+python scripts/experimental_deploy.py --app_name=xyz-atlas-sailed
+
+Then type ...
+
+appcfg.py -A xyz-atlas-sailed update xyz-atlas-sailed-experimental-deploy-20150808-182232
+
+
 ************************************
 INSTALLATION
 ************************************
